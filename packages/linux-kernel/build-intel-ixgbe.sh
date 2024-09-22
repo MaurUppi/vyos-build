@@ -14,7 +14,8 @@ fi
 
 . ${KERNEL_VAR_FILE}
 
-url="https://sourceforge.net/projects/e1000/files/ixgbe%20stable/5.20.3/ixgbe-5.20.3.tar.gz"
+# url="https://sourceforge.net/projects/e1000/files/ixgbe%20stable/5.20.3/ixgbe-5.20.3.tar.gz"
+url="https://downloadmirror.intel.com/822710/ixgbe-5.20.3.tar.gz"
 
 cd ${CWD}
 
